@@ -1,3 +1,3 @@
-# [Lang-brackets](https://anabastos.me/lang-brackets)
+# [SatoshiCup](https://pague.nu)
 
 Inspired By [alanoliveira14](https://github.com/alanoliveira14/alanoliveira14.github.io) and [disneybracket](disneybracket.com)
